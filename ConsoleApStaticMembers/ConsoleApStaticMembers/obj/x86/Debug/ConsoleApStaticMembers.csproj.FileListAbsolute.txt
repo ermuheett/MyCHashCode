@@ -1,0 +1,4 @@
+c:\users\er muheet ahmed butt\documents\visual studio 2010\Projects\ConsoleApStaticMembers\ConsoleApStaticMembers\bin\Debug\ConsoleApStaticMembers.exe
+c:\users\er muheet ahmed butt\documents\visual studio 2010\Projects\ConsoleApStaticMembers\ConsoleApStaticMembers\bin\Debug\ConsoleApStaticMembers.pdb
+c:\users\er muheet ahmed butt\documents\visual studio 2010\Projects\ConsoleApStaticMembers\ConsoleApStaticMembers\obj\x86\Debug\ConsoleApStaticMembers.exe
+c:\users\er muheet ahmed butt\documents\visual studio 2010\Projects\ConsoleApStaticMembers\ConsoleApStaticMembers\obj\x86\Debug\ConsoleApStaticMembers.pdb

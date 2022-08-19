@@ -1,0 +1,12 @@
+C:\Users\Er Muheet Ahmed Butt\AppData\Local\Temporary Projects\WindowsAppMyFirstApplication\bin\Debug\WindowsAppMyFirstApplication.exe
+C:\Users\Er Muheet Ahmed Butt\AppData\Local\Temporary Projects\WindowsAppMyFirstApplication\bin\Debug\WindowsAppMyFirstApplication.pdb
+C:\Users\Er Muheet Ahmed Butt\AppData\Local\Temporary Projects\WindowsAppMyFirstApplication\bin\Debug\WindowsAppMyFirstApplication.xml
+C:\Users\Er Muheet Ahmed Butt\AppData\Local\Temporary Projects\WindowsAppMyFirstApplication\obj\x86\Debug\WindowsAppMyFirstApplication.frmMyFirstApplication.resources
+C:\Users\Er Muheet Ahmed Butt\AppData\Local\Temporary Projects\WindowsAppMyFirstApplication\obj\x86\Debug\WindowsAppMyFirstApplication.Resources.resources
+C:\Users\Er Muheet Ahmed Butt\AppData\Local\Temporary Projects\WindowsAppMyFirstApplication\obj\x86\Debug\WindowsAppMyFirstApplication.vbproj.GenerateResource.Cache
+C:\Users\Er Muheet Ahmed Butt\AppData\Local\Temporary Projects\WindowsAppMyFirstApplication\obj\x86\Debug\WindowsAppMyFirstApplication.exe
+C:\Users\Er Muheet Ahmed Butt\AppData\Local\Temporary Projects\WindowsAppMyFirstApplication\obj\x86\Debug\WindowsAppMyFirstApplication.xml
+C:\Users\Er Muheet Ahmed Butt\AppData\Local\Temporary Projects\WindowsAppMyFirstApplication\obj\x86\Debug\WindowsAppMyFirstApplication.pdb
+C:\Users\Er Muheet Ahmed Butt\documents\visual studio 2010\Projects\WindowsAppMyFirstApplication\WindowsAppMyFirstApplication\obj\x86\Debug\WindowsAppMyFirstApplication.exe
+C:\Users\Er Muheet Ahmed Butt\documents\visual studio 2010\Projects\WindowsAppMyFirstApplication\WindowsAppMyFirstApplication\obj\x86\Debug\WindowsAppMyFirstApplication.xml
+C:\Users\Er Muheet Ahmed Butt\documents\visual studio 2010\Projects\WindowsAppMyFirstApplication\WindowsAppMyFirstApplication\obj\x86\Debug\WindowsAppMyFirstApplication.pdb

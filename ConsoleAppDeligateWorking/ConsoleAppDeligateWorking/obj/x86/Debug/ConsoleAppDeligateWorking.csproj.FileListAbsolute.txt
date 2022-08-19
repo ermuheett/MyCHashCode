@@ -1,0 +1,4 @@
+c:\users\er muheet ahmed butt\documents\visual studio 2010\Projects\ConsoleAppDeligateWorking\ConsoleAppDeligateWorking\bin\Debug\ConsoleAppDeligateWorking.exe
+c:\users\er muheet ahmed butt\documents\visual studio 2010\Projects\ConsoleAppDeligateWorking\ConsoleAppDeligateWorking\bin\Debug\ConsoleAppDeligateWorking.pdb
+c:\users\er muheet ahmed butt\documents\visual studio 2010\Projects\ConsoleAppDeligateWorking\ConsoleAppDeligateWorking\obj\x86\Debug\ConsoleAppDeligateWorking.exe
+c:\users\er muheet ahmed butt\documents\visual studio 2010\Projects\ConsoleAppDeligateWorking\ConsoleAppDeligateWorking\obj\x86\Debug\ConsoleAppDeligateWorking.pdb

@@ -1,0 +1,17 @@
+C:\Users\LENOVO\Downloads\NaiveBayesClassifier1\NaiveBayesClassifier\bin\Debug\ProbabilityFunctions.exe
+C:\Users\LENOVO\Downloads\NaiveBayesClassifier1\NaiveBayesClassifier\bin\Debug\ProbabilityFunctions.pdb
+C:\Users\LENOVO\Downloads\NaiveBayesClassifier1\NaiveBayesClassifier\obj\x86\Debug\ProbabilityFunctions.exe
+C:\Users\LENOVO\Downloads\NaiveBayesClassifier1\NaiveBayesClassifier\obj\x86\Debug\ProbabilityFunctions.pdb
+C:\Users\LENOVO\Downloads\NaiveBayesClassifier1\NaiveBayesClassifier\obj\x86\Debug\NaiveBayesClassifier.csprojResolveAssemblyReference.cache
+G:\NaiveBayesClassifier\obj\x86\Debug\ProbabilityFunctions.exe
+G:\NaiveBayesClassifier\obj\x86\Debug\ProbabilityFunctions.pdb
+G:\NaiveBayesClassifier\bin\Debug\ProbabilityFunctions.exe
+G:\NaiveBayesClassifier\bin\Debug\ProbabilityFunctions.pdb
+G:\NaiveBayesClassifier\obj\x86\Debug\NaiveBayesClassifier.csprojResolveAssemblyReference.cache
+D:\NaiveBayesClassifier\obj\x86\Debug\ProbabilityFunctions.exe
+D:\NaiveBayesClassifier\obj\x86\Debug\ProbabilityFunctions.pdb
+C:\Users\Muheet Ahmed Butt\Documents\Visual Studio 2010\Projects\NaiveBayesClassifier\obj\x86\Debug\ProbabilityFunctions.exe
+C:\Users\Muheet Ahmed Butt\Documents\Visual Studio 2010\Projects\NaiveBayesClassifier\obj\x86\Debug\ProbabilityFunctions.pdb
+C:\Users\Muheet Ahmed Butt\Documents\Visual Studio 2010\Projects\NaiveBayesClassifier\obj\x86\Debug\NaiveBayesClassifier.csprojResolveAssemblyReference.cache
+C:\Users\Muheet Ahmed Butt\Documents\Visual Studio 2010\Projects\NaiveBayesClassifier\bin\Debug\ProbabilityFunctions.exe
+C:\Users\Muheet Ahmed Butt\Documents\Visual Studio 2010\Projects\NaiveBayesClassifier\bin\Debug\ProbabilityFunctions.pdb

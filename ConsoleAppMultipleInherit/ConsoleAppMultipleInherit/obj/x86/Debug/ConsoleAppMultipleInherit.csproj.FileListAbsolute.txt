@@ -1,0 +1,4 @@
+c:\users\er muheet ahmed butt\documents\visual studio 2010\Projects\ConsoleAppMultipleInherit\ConsoleAppMultipleInherit\bin\Debug\ConsoleAppMultipleInherit.exe
+c:\users\er muheet ahmed butt\documents\visual studio 2010\Projects\ConsoleAppMultipleInherit\ConsoleAppMultipleInherit\bin\Debug\ConsoleAppMultipleInherit.pdb
+c:\users\er muheet ahmed butt\documents\visual studio 2010\Projects\ConsoleAppMultipleInherit\ConsoleAppMultipleInherit\obj\x86\Debug\ConsoleAppMultipleInherit.exe
+c:\users\er muheet ahmed butt\documents\visual studio 2010\Projects\ConsoleAppMultipleInherit\ConsoleAppMultipleInherit\obj\x86\Debug\ConsoleAppMultipleInherit.pdb

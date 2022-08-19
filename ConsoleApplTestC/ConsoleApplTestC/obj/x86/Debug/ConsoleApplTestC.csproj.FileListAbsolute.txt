@@ -1,0 +1,4 @@
+c:\users\er muheet ahmed butt\documents\visual studio 2010\Projects\ConsoleApplTestC\ConsoleApplTestC\bin\Debug\ConsoleApplTestC.exe
+c:\users\er muheet ahmed butt\documents\visual studio 2010\Projects\ConsoleApplTestC\ConsoleApplTestC\bin\Debug\ConsoleApplTestC.pdb
+c:\users\er muheet ahmed butt\documents\visual studio 2010\Projects\ConsoleApplTestC\ConsoleApplTestC\obj\x86\Debug\ConsoleApplTestC.exe
+c:\users\er muheet ahmed butt\documents\visual studio 2010\Projects\ConsoleApplTestC\ConsoleApplTestC\obj\x86\Debug\ConsoleApplTestC.pdb

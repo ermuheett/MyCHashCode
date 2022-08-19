@@ -1,0 +1,4 @@
+c:\users\er muheet ahmed butt\documents\visual studio 2010\Projects\ConsoleApplBasicInheritance\ConsoleApplBasicInheritance\bin\Debug\ConsoleApplBasicInheritance.exe
+c:\users\er muheet ahmed butt\documents\visual studio 2010\Projects\ConsoleApplBasicInheritance\ConsoleApplBasicInheritance\bin\Debug\ConsoleApplBasicInheritance.pdb
+c:\users\er muheet ahmed butt\documents\visual studio 2010\Projects\ConsoleApplBasicInheritance\ConsoleApplBasicInheritance\obj\x86\Debug\ConsoleApplBasicInheritance.exe
+c:\users\er muheet ahmed butt\documents\visual studio 2010\Projects\ConsoleApplBasicInheritance\ConsoleApplBasicInheritance\obj\x86\Debug\ConsoleApplBasicInheritance.pdb

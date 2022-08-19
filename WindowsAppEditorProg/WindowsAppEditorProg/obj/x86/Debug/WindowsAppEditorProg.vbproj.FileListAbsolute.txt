@@ -1,0 +1,9 @@
+c:\users\er muheet ahmed butt\documents\visual studio 2010\Projects\WindowsAppEditorProg\WindowsAppEditorProg\bin\Debug\WindowsAppEditorProg.exe
+c:\users\er muheet ahmed butt\documents\visual studio 2010\Projects\WindowsAppEditorProg\WindowsAppEditorProg\bin\Debug\WindowsAppEditorProg.pdb
+c:\users\er muheet ahmed butt\documents\visual studio 2010\Projects\WindowsAppEditorProg\WindowsAppEditorProg\bin\Debug\WindowsAppEditorProg.xml
+c:\users\er muheet ahmed butt\documents\visual studio 2010\Projects\WindowsAppEditorProg\WindowsAppEditorProg\obj\x86\Debug\WindowsAppEditorProg.frmEditorProg.resources
+c:\users\er muheet ahmed butt\documents\visual studio 2010\Projects\WindowsAppEditorProg\WindowsAppEditorProg\obj\x86\Debug\WindowsAppEditorProg.Resources.resources
+c:\users\er muheet ahmed butt\documents\visual studio 2010\Projects\WindowsAppEditorProg\WindowsAppEditorProg\obj\x86\Debug\WindowsAppEditorProg.vbproj.GenerateResource.Cache
+c:\users\er muheet ahmed butt\documents\visual studio 2010\Projects\WindowsAppEditorProg\WindowsAppEditorProg\obj\x86\Debug\WindowsAppEditorProg.exe
+c:\users\er muheet ahmed butt\documents\visual studio 2010\Projects\WindowsAppEditorProg\WindowsAppEditorProg\obj\x86\Debug\WindowsAppEditorProg.xml
+c:\users\er muheet ahmed butt\documents\visual studio 2010\Projects\WindowsAppEditorProg\WindowsAppEditorProg\obj\x86\Debug\WindowsAppEditorProg.pdb

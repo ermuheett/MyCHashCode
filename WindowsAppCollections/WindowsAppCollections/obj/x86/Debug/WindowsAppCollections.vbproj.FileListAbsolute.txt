@@ -1,0 +1,9 @@
+C:\Users\Er Muheet Ahmed Butt\AppData\Local\Temporary Projects\WindowsAppCollections\bin\Debug\WindowsAppCollections.exe
+C:\Users\Er Muheet Ahmed Butt\AppData\Local\Temporary Projects\WindowsAppCollections\bin\Debug\WindowsAppCollections.pdb
+C:\Users\Er Muheet Ahmed Butt\AppData\Local\Temporary Projects\WindowsAppCollections\bin\Debug\WindowsAppCollections.xml
+C:\Users\Er Muheet Ahmed Butt\AppData\Local\Temporary Projects\WindowsAppCollections\obj\x86\Debug\WindowsAppCollections.frmCollection.resources
+C:\Users\Er Muheet Ahmed Butt\AppData\Local\Temporary Projects\WindowsAppCollections\obj\x86\Debug\WindowsAppCollections.Resources.resources
+C:\Users\Er Muheet Ahmed Butt\AppData\Local\Temporary Projects\WindowsAppCollections\obj\x86\Debug\WindowsAppCollections.vbproj.GenerateResource.Cache
+C:\Users\Er Muheet Ahmed Butt\AppData\Local\Temporary Projects\WindowsAppCollections\obj\x86\Debug\WindowsAppCollections.exe
+C:\Users\Er Muheet Ahmed Butt\AppData\Local\Temporary Projects\WindowsAppCollections\obj\x86\Debug\WindowsAppCollections.xml
+C:\Users\Er Muheet Ahmed Butt\AppData\Local\Temporary Projects\WindowsAppCollections\obj\x86\Debug\WindowsAppCollections.pdb

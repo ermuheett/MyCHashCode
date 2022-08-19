@@ -1,0 +1,4 @@
+c:\users\er muheet ahmed butt\documents\visual studio 2010\Projects\ConsoleAppOopsOptr\ConsoleAppOopsOptr\bin\Debug\ConsoleAppOopsOptr.exe
+c:\users\er muheet ahmed butt\documents\visual studio 2010\Projects\ConsoleAppOopsOptr\ConsoleAppOopsOptr\bin\Debug\ConsoleAppOopsOptr.pdb
+c:\users\er muheet ahmed butt\documents\visual studio 2010\Projects\ConsoleAppOopsOptr\ConsoleAppOopsOptr\obj\x86\Debug\ConsoleAppOopsOptr.exe
+c:\users\er muheet ahmed butt\documents\visual studio 2010\Projects\ConsoleAppOopsOptr\ConsoleAppOopsOptr\obj\x86\Debug\ConsoleAppOopsOptr.pdb

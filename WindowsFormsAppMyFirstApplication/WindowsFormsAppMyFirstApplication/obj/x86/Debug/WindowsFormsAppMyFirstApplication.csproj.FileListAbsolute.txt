@@ -1,0 +1,9 @@
+C:\Users\Er Muheet Ahmed Butt\AppData\Local\Temporary Projects\WindowsFormsAppMyFirstApplication\bin\Debug\WindowsFormsAppMyFirstApplication.exe
+C:\Users\Er Muheet Ahmed Butt\AppData\Local\Temporary Projects\WindowsFormsAppMyFirstApplication\bin\Debug\WindowsFormsAppMyFirstApplication.pdb
+C:\Users\Er Muheet Ahmed Butt\AppData\Local\Temporary Projects\WindowsFormsAppMyFirstApplication\obj\x86\Debug\WindowsFormsAppMyFirstApplication.frmMyFristApp.resources
+C:\Users\Er Muheet Ahmed Butt\AppData\Local\Temporary Projects\WindowsFormsAppMyFirstApplication\obj\x86\Debug\WindowsFormsAppMyFirstApplication.Properties.Resources.resources
+C:\Users\Er Muheet Ahmed Butt\AppData\Local\Temporary Projects\WindowsFormsAppMyFirstApplication\obj\x86\Debug\WindowsFormsAppMyFirstApplication.csproj.GenerateResource.Cache
+C:\Users\Er Muheet Ahmed Butt\AppData\Local\Temporary Projects\WindowsFormsAppMyFirstApplication\obj\x86\Debug\WindowsFormsAppMyFirstApplication.exe
+C:\Users\Er Muheet Ahmed Butt\AppData\Local\Temporary Projects\WindowsFormsAppMyFirstApplication\obj\x86\Debug\WindowsFormsAppMyFirstApplication.pdb
+C:\Users\Er Muheet Ahmed Butt\documents\visual studio 2010\Projects\WindowsFormsAppMyFirstApplication\WindowsFormsAppMyFirstApplication\obj\x86\Debug\WindowsFormsAppMyFirstApplication.exe
+C:\Users\Er Muheet Ahmed Butt\documents\visual studio 2010\Projects\WindowsFormsAppMyFirstApplication\WindowsFormsAppMyFirstApplication\obj\x86\Debug\WindowsFormsAppMyFirstApplication.pdb
